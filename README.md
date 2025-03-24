@@ -6,7 +6,7 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL1ziFNu-3pS3vnTjouCUBSxA8hKdLnJcVTA&usqp=CAU" width="48" height="48" alt="parrot os logo"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="48" alt="typescript logo"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" alt="node logo"> <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" width="48" alt="laravel logo"> <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="48" alt="Git Logo"> 
 <br/>
-[![newcharmingdev's github stats](https://github-readme-stats.vercel.app/api?username=dream-topdev&count_private=true&show_icons=true&theme=dark&q=123)](https://github.com/dream-topdev/dream-topdev)
+[![dream-topdev's github stats](https://github-readme-stats.vercel.app/api?username=dream-topdev&count_private=true&show_icons=true&theme=dark&q=123)](https://github.com/dream-topdev/dream-topdev)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -17,7 +17,7 @@
 
 
 <!--
-**newcharmingdev/newcharmingdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+**dream-topdev/dream-topdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
